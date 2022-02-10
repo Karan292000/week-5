@@ -1,4 +1,4 @@
-# Walk Boston Data Coding Assignment
+# WALK BUSTON
 
  
 Walk through Boston public salaries data
